@@ -44,7 +44,18 @@ background: linear-gradient(to right, #FFFFFF, #ECE9E6);
 }
 
 .secondtitle{
-background-color: red;
+font-weight: bolder;
+color: #D2D2D2;
 display: flex;
 
+}
+.footer{
+  width: 100%;
+  display: flex;
+  color: #5C5C5C;
+  font-weight: bold;
+
+}
+.footer span{
+  padding: 1% 5px;
 }
